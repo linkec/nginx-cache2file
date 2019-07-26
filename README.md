@@ -1,0 +1,1 @@
+# nginx-cache2file
